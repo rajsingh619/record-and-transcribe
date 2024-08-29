@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from 'react'
-import HomePage from './components/HomePage'
+import HomePage from './components/Homepage'
 import Header from './components/Header'
 import FileDisplay from './components/FileDisplay'
 import Information from './components/Information'
